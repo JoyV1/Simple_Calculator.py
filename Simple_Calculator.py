@@ -18,7 +18,7 @@ the_screen_text_display.grid(row=0, column=0, columnspan=4, sticky="nswe", ipady
 the_creation_of_screen.bind('<Return>', lambda e: displaying_the_answer())
 the_creation_of_screen.bind('<BackSpace>', lambda e: delete_the_last_character())
 
-the_screen_text_display.configure(validate="key", validatecommand=(the_creation_of_screen.register(lambda char: char in "0123456789+-x÷.%"), "%S"))
+the_screen_text_display.configure(validate="key", validatecommand=(the_creation_of_screen.register(lambda char: char in "0123456789+-x÷.%="), "%S"))
 
 def clear_the_screen():
     the_screen_text.set("")
@@ -96,5 +96,6 @@ for i in range(4):
     the_creation_of_screen.columnconfigure(i, weight=1)
 for i in range(6):
     the_creation_of_screen.rowconfigure(i, weight=1)
+
 
 the_creation_of_screen.mainloop()
