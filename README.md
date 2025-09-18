@@ -1,4 +1,4 @@
-Simple Python Calculator - Learn by Understanding, Not by Vibing 🧮
+Simple Python Calculator - Learn by Understanding, Not by coding Vibing 🧮
 _______________________________________________________________________________________________________________________________________
 A beginner-friendly GUI calculator built with tkinter for Python newbies struggling to grasp coding concepts.
 __________________________________________________________________________________________________________________________
@@ -16,4 +16,4 @@ ________________________________________________________________________________
 * Need hands-on GUI projects to grasp concepts
 * Struggle with understanding code structure
 ___________________________________________________________________________________________
-Stop vibing, start understanding! This calculator teaches tkinter basics, event handling, and proper code organization through a practical project you can actually use.
+Stop vibing coding, start understanding! This calculator teaches tkinter basics, event handling, and proper code organization through a practical project you can actually use.
