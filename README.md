@@ -1,7 +1,4 @@
-# Simple_Calculator.py
-Simple GUI calculator for Python beginners who struggle despite Python being "easy". Clear code style teaches real understanding over vibe coding. Learn tkinter, events &amp; structure through hands-on practice. Stop copying - start coding independently! 🧮
-
-Simple Python Calculator - Learn by Understanding, Not by Vibing coding 🧮
+Simple Python Calculator - Learn by Understanding, Not by Vibing 🧮
 A beginner-friendly GUI calculator built with tkinter for Python newbies struggling to grasp coding concepts.
 🎯 Purpose & Agenda:
 
@@ -18,4 +15,4 @@ Want to move beyond copy-paste coding
 Need hands-on GUI projects to grasp concepts
 Struggle with understanding code structure
 
-Stop vibing coding, start understanding! This calculator teaches tkinter basics, event handling, and proper code organization through a practical project you can actually use.
+Stop vibing, start understanding! This calculator teaches tkinter basics, event handling, and proper code organization through a practical project you can actually use.
