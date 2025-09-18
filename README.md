@@ -4,7 +4,7 @@ A beginner-friendly GUI calculator built with tkinter for Python newbies struggl
 
 Clear, readable code style - Every line explained through structure
 No "vibe coding" - Understand WHY each function exists
-Step-by-step learning - From basic GUI to event handling
+Step-by-step learning - From basic GUI to event handlings
 Real project experience - Build something functional, not just tutorials
 Self-sufficiency focus - Learn to code independently
 
